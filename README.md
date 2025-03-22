@@ -9,4 +9,26 @@ In this analysis we will answer 15 important questions related to sales, custome
  3. Analyze Customer buying patterns and peak sales seasons.
 # About DataSet:
 The Walmart Sales Dataset obtained from the kaggle walmart sales contains transactional sales data from january to march(Q1) from walmart stores.The data contains 17 column and 1000 rows of clean data(NOT NULL) encompasses Sales transcations from three Walmart branches situated in Mandalay, Yangon, and Naypyitaw, respectively.
-# Tool
+# Tool Used:
+ . Data processing     : Excel
+ . Database            :PostgreSQL
+ .Visualization        :Power BI
+# Question to Answer:
+## Sales Analysis
+ 1.Total revenue by month
+ 2. Which Regions/City have the highest Revenue
+ 3. which day of week has highest sales during the period
+ 4. Total Gross income during the period
+ 5. Which region sold highest unit
+## Product Analysis
+ 1.What are the diffrent products in the store
+ 2. Products Generating Highest Revenue
+ 3. What are The Average Revenue Per Product
+ 4.Which Product type has highest and lowest sales during the period
+ 5. What is the average rating per product
+ 6. What is the average unit price per product
+## Customer Analysis
+ 1. What Type of Customers are generating Highest Revenue
+ 2. What is The Average Sales Per Customer Type
+ 3. Which modes of payment customers mostly used
+ 4. What is the gender distribution per branch

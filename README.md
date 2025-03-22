@@ -12,7 +12,8 @@ The Walmart Sales Dataset obtained from the kaggle walmart sales contains transa
 # Tool Used:
  1. Data processing     : Excel
  2. Database            :PostgreSQL
- 3.Visualization        :Power BI
+ 3. Visualization        :Power BI
+   
 # Question to Answer:
 ## Sales Analysis
  1.Total revenue by month

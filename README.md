@@ -10,9 +10,9 @@ In this analysis we will answer 15 important questions related to sales, custome
 # About DataSet:
 The Walmart Sales Dataset obtained from the kaggle walmart sales contains transactional sales data from january to march(Q1) from walmart stores.The data contains 17 column and 1000 rows of clean data(NOT NULL) encompasses Sales transcations from three Walmart branches situated in Mandalay, Yangon, and Naypyitaw, respectively.
 # Tool Used:
- . Data processing     : Excel
- . Database            :PostgreSQL
- .Visualization        :Power BI
+ 1. Data processing     : Excel
+ 2. Database            :PostgreSQL
+ 3.Visualization        :Power BI
 # Question to Answer:
 ## Sales Analysis
  1.Total revenue by month

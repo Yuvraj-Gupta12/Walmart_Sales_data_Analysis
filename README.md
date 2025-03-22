@@ -34,7 +34,7 @@ The Walmart Sales Dataset obtained from the kaggle walmart sales contains transa
  3. Which modes of payment customers mostly used
  4. What is the gender distribution per branch
 # Dashboard:
-![Image](https://github.com/user-attachments/assets/125d2b11-42dc-470c-8584-a4b87d1570d7)
+![Image](https://github.com/user-attachments/assets/0d09dab7-7dfd-4572-af3a-58c4e444b2c3)
 ## About dashboard
 The Walmart Sales Data Dashboard is an interactive Power BI visualization that provides real time insights offering a flexible and comprehensive view of information.
 

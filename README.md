@@ -33,3 +33,5 @@ The Walmart Sales Dataset obtained from the kaggle walmart sales contains transa
  2. What is The Average Sales Per Customer Type
  3. Which modes of payment customers mostly used
  4. What is the gender distribution per branch
+# Dashboard:
+![Image](https://github.com/user-attachments/assets/125d2b11-42dc-470c-8584-a4b87d1570d7)

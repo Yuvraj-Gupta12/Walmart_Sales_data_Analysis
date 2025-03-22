@@ -16,16 +16,16 @@ The Walmart Sales Dataset obtained from the kaggle walmart sales contains transa
    
 # Question to Answer:
 ## Sales Analysis
- 1.Total revenue by month
+ 1. Total revenue by month
  2. Which Regions/City have the highest Revenue
  3. which day of week has highest sales during the period
  4. Total Gross income during the period
  5. Which region sold highest unit
 ## Product Analysis
- 1.What are the diffrent products in the store
+ 1. What are the diffrent products in the store
  2. Products Generating Highest Revenue
  3. What are The Average Revenue Per Product
- 4.Which Product type has highest and lowest sales during the period
+ 4. Which Product type has highest and lowest sales during the period
  5. What is the average rating per product
  6. What is the average unit price per product
 ## Customer Analysis
